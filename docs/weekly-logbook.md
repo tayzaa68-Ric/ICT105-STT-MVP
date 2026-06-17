@@ -58,20 +58,30 @@ Feasible: The team has the technical skills and resources to implement it.
 
 The selected opportunity scored highest overall, making it the most balanced choice.
 ### What We Rejected
-What We Rejected
+
 We considered [Meeting Scheduler System], but it was rejected because:
 It scored lower in feasibility due to resource constraints.
 The usefulness was limited compared to the selected opportunity.
 
 ### What We Learned
 1.Structured evaluation (NUF scoring) helps avoid bias in decision-making.
-
 2.Some ideas may sound exciting but fail when tested against feasibility.
-
 3.Clear documentation ensures the whole team understands the decision rationale.
+
 ### Evidence of Work
 - Opportunity scan file:
 - NUF scoring file:https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
 - Selected opportunity file:
 - GitHub issue screenshot:
 - Commit link:
+
+### Plan for Lab 03
+The team will conduct customer problem discovery by:
+
+Preparing interview and survey questions.
+
+Identifying target respondents.
+
+Collecting feedback to validate the selected opportunity.
+
+Documenting insights in GitHub for transparency and iteration.

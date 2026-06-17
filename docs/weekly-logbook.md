@@ -69,11 +69,11 @@ The usefulness was limited compared to the selected opportunity.
 3.Clear documentation ensures the whole team understands the decision rationale.
 
 ### Evidence of Work
-- Opportunity scan file:
+- Opportunity scan file:https://github.com/tayzaa68-Ric/ICT105-STT-MVP/blob/2055e5a9007f23c8780958d39aba7e67e3a48aed/docs/opportunity-scan.md
 - NUF scoring file:https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
-- Selected opportunity file:
-- GitHub issue screenshot:
-- Commit link:
+- Selected opportunity file:https://github.com/tayzaa68-Ric/ICT105-STT-MVP/blob/2055e5a9007f23c8780958d39aba7e67e3a48aed/docs/selected.opportunity.md
+- GitHub issue screenshot:<img width="1920" height="1080" alt="{62260B65-F53C-496E-8F63-8431DCDF737F}" src="https://github.com/user-attachments/assets/0bf774da-0420-451b-bd6b-d21e0a50b806" />
+- Commit link:https://github.com/tayzaa68-Ric/ICT105-STT-MVP/commit/2055e5a9007f23c8780958d39aba7e67e3a48aed
 
 ### Plan for Lab 03
 The team will conduct customer problem discovery by:

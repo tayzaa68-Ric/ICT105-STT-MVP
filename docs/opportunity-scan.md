@@ -1,5 +1,1 @@
-| Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction |
-| :--- | :--- | :--- | :--- | :--- |
-| Idea 1: Student Project Management System | Difficulty allocating tasks and tracking deadlines within student group projects. | University students and project team members aiming for better coordination. | Instant messaging groups (Line/Messenger) and manual notes. | Web Application Prototype (HTML, CSS, JavaScript, Local Storage). |
-| Idea 2: Student Attendance Tracker | Forgetting class schedules and missing the minimum attendance requirements. | Students struggling with time management and class representatives. | Google Calendar, personal phone alarms, or manual tracking. | Mobile App Concept (Clickable UI Prototype, Web Dashboard). |
-| Idea 3: Campus Service Info System | Difficulty locating offices, university services, and contact directions on campus. | New university students, freshmen, and campus visitors. | University handbook booklets or asking staff/students in person. | Information Management System (Searchable Web Database). |
+

@@ -39,3 +39,39 @@ The team selected the Campus Life domain and decided to develop a Student Projec
 3. Identify user pain points and existing alternatives.
 4. Analyze opportunity areas.
 5. Prepare Lab 2 documentation.
+
+## Lab 02: IT Opportunity Scanning
+### What We Completed
+1.Conducted brainstorming sessions to generate multiple IT opportunity ideas.
+2.Applied NUF (New, Useful, Feasible) scoring to evaluate each idea.
+3.Narrowed down to one selected opportunity based on team consensus.
+### Selected Opportunity
+Student Project Management System
+### Why We Selected It
+We applied the NUF scoring framework:
+
+New: The idea introduces a novel approach compared to existing solutions.
+
+Useful: It directly addresses a real user need identified during Lab 02.
+
+Feasible: The team has the technical skills and resources to implement it.
+
+The selected opportunity scored highest overall, making it the most balanced choice.
+### What We Rejected
+What We Rejected
+We considered [Meeting Scheduler System], but it was rejected because:
+It scored lower in feasibility due to resource constraints.
+The usefulness was limited compared to the selected opportunity.
+
+### What We Learned
+1.Structured evaluation (NUF scoring) helps avoid bias in decision-making.
+
+2.Some ideas may sound exciting but fail when tested against feasibility.
+
+3.Clear documentation ensures the whole team understands the decision rationale.
+### Evidence of Work
+- Opportunity scan file:
+- NUF scoring file:https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
+- Selected opportunity file:
+- GitHub issue screenshot:
+- Commit link:
